@@ -1,0 +1,27 @@
+{
+  "name": "alisa.ms",
+  "version": "0.0.1",
+  "description": "ms modülünün türkçe ve daha gelişmiş versiyonu",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pordarman/alisa.ms.git"
+  },
+  "keywords": [
+    "ms",
+    "mstr",
+    "trms",
+    "ms_tr",
+    "türkçe",
+    "tr"
+  ],
+  "author": "Fearless Crazy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pordarman/alisa.ms/issues"
+  },
+  "homepage": "https://github.com/pordarman/alisa.ms#readme"
+}
