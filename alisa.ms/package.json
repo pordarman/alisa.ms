@@ -1,6 +1,6 @@
 {
   "name": "alisa.ms",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ms modülünün türkçe ve daha gelişmiş versiyonu",
   "main": "index.js",
   "scripts": {
