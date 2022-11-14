@@ -81,4 +81,4 @@ mstr("12345 gün", "dakika") // 17776800
 
 <br>
 
-![lovee](https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy-downsized-large.gif)
+![lovee](https://i.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy-downsized-large.gif)
