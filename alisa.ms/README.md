@@ -71,6 +71,15 @@ mstr("12345 gün", "dakika") // 17776800
 
 <br>
 
+Üstelik sadece 1 değer girmek zorunda değilsiniz! İçine istediğiniz kadar zaman ifadesi içerek veri giriniz yine çalışacaktır
+```js
+mstr("1 asır, 25 yıl, 5 ay, 15 gün, 8 saat, 9 dakika, 10 saniye, 213 salise") // 3958985350000
+
+// Gördüğünüz gibi içine istediğiniz kadar veri yazmakta tamamen özgürsünüz!
+```
+
+<br>
+
 # Ve son olarak
 
 - Eğer bu modülü geliştirmek istiyorsanız [github](https://github.com/pordarman) üzerinden bana istekte bulunursanız size seve seve yardımcı olurum
