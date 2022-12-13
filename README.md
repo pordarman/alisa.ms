@@ -1,4 +1,4 @@
-## [![alisa.ms Logo](https://i.hizliresim.com/aug2sp9.png)](https://www.npmjs.com/package/alisa.ms/)
+## [![Alisa Logo](https://i.hizliresim.com/aug2sp9.png)](https://www.npmjs.com/package/alisa.ms/)
 
 
 [![Paketin adı](https://img.shields.io/badge/Paketin%20adı-ms--tr-red)](https://www.npmjs.com/package/alisa.ms/)
