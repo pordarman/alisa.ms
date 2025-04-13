@@ -4,23 +4,23 @@ const mstr = require("../index") // Siz "./index" yerine "alisa.ms" yazınız
 
 // Şimdi ise örnekleeerrrr
 
-mstr("1 saniye") // 1000
-mstr("-1 saniye") // -1000
+console.log(mstr("1 saniye")) // 1000
+console.log(mstr("-1 saniye")) // -1000
 
-mstr("1 dakika") // 60000
-mstr("-1 dakika") // -60000
+console.log(mstr("1 dakika")) // 60000
+console.log(mstr("-1 dakika")) // -60000
 
-mstr("1 saat") // 36000000
-mstr("-1 saat") // -36000000
+console.log(mstr("1 saat")) // 36000000
+console.log(mstr("-1 saat")) // -36000000
 
 
 
 // Yazdığınız değerin içine birden çok veri yazdırabilirsiniz
 // Örnek vermek gerekirse
 
-mstr("1 saat 30 dakika") // 5400000
+console.log(mstr("1 saat 30 dakika")) // 5400000
 
-mstr("1 asır 15 yıl 5 ay 3 hafta 2 gün 8 saat 9 dakika 10 saniye 854 milisaniye") // 3644100550854
+console.log(mstr("1 asır 15 yıl 5 ay 3 hafta 2 gün 8 saat 9 dakika 10 saniye 854 milisaniye")) // 3641616550854
 
 
 
@@ -32,15 +32,15 @@ mstr("1 asır 15 yıl 5 ay 3 hafta 2 gün 8 saat 9 dakika 10 saniye 854 milisani
 
 // Şimdi ise döndürülecek değeri özelleştireceğiz
 
-mstr("1 dakika", "dakika") // 1
+console.log(mstr("1 dakika", "dakika")) // 1
 
-mstr("1 saat", "dakika") // 60
+console.log(mstr("1 saat", "dakika")) // 60
 
-mstr("1 asır", "yıl") // 100
+console.log(mstr("1 asır", "yıl")) // 100
 
-mstr("5 hafta", "gün") // 35
+console.log(mstr("5 hafta", "gün")) // 35
 
-mstr("60 saat", "gün") // 2.5
+console.log(mstr("60 saat", "gün")) // 2.5
 
 
 /**
