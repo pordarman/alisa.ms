@@ -16,7 +16,7 @@
 
 # Yaratıcılar
 
-- [Ali (Fearless Crazy)](https://github.com/pordarman)
+- [Ali Çelik](https://github.com/pordarman)
 
 <br>
 
