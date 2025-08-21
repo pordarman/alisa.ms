@@ -2,7 +2,7 @@
 
 
 [![Paketin adı](https://img.shields.io/badge/Paketin%20adı-ms--tr-red)](https://www.npmjs.com/package/alisa.ms/)
-[![Paket boyutu](https://img.shields.io/bundlephobia/min/alisa.ms?label=Paketin%20boyutu)](https://www.npmjs.com/package/alisa.ms/)
+[![Paket boyutu](https://img.shields.io/bundlejs/size/alisa.ms?label=Paketin%20boyutu)](https://www.npmjs.com/package/alisa.ms/)
 [![Versiyonu](https://img.shields.io/npm/v/alisa.ms.svg?label=Paketin%20versiyonu)](https://www.npmjs.com/package/alisa.ms/)
 [![Lisans](https://img.shields.io/npm/l/alisa.ms.svg?label=Lisans)](https://www.npmjs.com/package/alisa.ms/)
 
